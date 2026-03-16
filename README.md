@@ -6,5 +6,6 @@ Sentiment Analysis System Model Development
 5. Tokenization 
 6. Padding
 7. Train/ Validation/ Test Split
+8. Model Build
 
 More coming soon ....

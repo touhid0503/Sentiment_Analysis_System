@@ -9,5 +9,6 @@ Sentiment Analysis System Model Development
 8. Model Build
 9. Compile Model
 10. Model Training
+11. Visualize Performance
 
 More coming soon ....

@@ -10,5 +10,6 @@ Sentiment Analysis System Model Development
 9. Compile Model
 10. Model Training
 11. Visualize Performance
+12. Detect Overfitting / Underfitting
 
 More coming soon ....

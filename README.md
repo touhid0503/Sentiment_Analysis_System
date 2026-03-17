@@ -8,5 +8,6 @@ Sentiment Analysis System Model Development
 7. Train/ Validation/ Test Split
 8. Model Build
 9. Compile Model
+10. Model Training
 
 More coming soon ....
